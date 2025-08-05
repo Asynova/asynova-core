@@ -1,0 +1,47 @@
+{
+  "name": "asynova-core-community",
+  "version": "1.0.0",
+  "description": "Community edition AI cost optimization - demonstrates basic techniques for 10-20% savings",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": true,
+  "files": [
+    "dist",
+    "src",
+    "examples",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo 'No tests in community edition'",
+    "example:basic": "node examples/basic-usage.js",
+    "example:support": "node examples/customer-support.js",
+    "example:benchmark": "node examples/benchmark.js",
+    "benchmark": "npm run example:benchmark"
+  },
+  "keywords": [
+    "ai-cost-optimization",
+    "openai",
+    "cost-reduction",
+    "community-edition"
+  ],
+  "author": "Asynova",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asynova/asynova-core"
+  },
+  "bugs": {
+    "url": "https://github.com/asynova/asynova-core/issues"
+  },
+  "homepage": "https://asynova.com",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
