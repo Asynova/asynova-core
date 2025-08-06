@@ -115,12 +115,10 @@ This community edition is just the beginning. Our **[Pro Platform](https://asyno
 - **Real-time analytics** and cost tracking
 - **Priority support** from our team
 
-### Trusted By:
-- 1,247+ developers
-- Processing 10M+ requests/month
-- $500K+ saved collectively
+### Our Goal:
+Help developers build amazing AI applications without breaking the bank.
 
-**[Start Free Trial →](https://asynova.com)**
+**[Learn More →](https://asynova.com)**
 
 ## 🤝 Contributing
 
