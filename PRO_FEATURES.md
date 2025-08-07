@@ -37,8 +37,8 @@ The Pro Platform is the sports car - engineered for performance, speed, and maxi
 If you're spending more than $500/month on AI APIs, the Pro Platform pays for itself immediately.
 
 **[Start Free Trial →](https://asynova.com)**
-- First 1,000 API calls FREE
-- No credit card required
+- Use your own API keys (zero cost to you)
+- No credit card required  
 - 5 minute setup
 
 ---

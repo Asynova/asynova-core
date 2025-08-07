@@ -99,7 +99,7 @@ async function runBenchmark() {
   console.log(`   That's $${(proSavings * 12).toLocaleString()}/year!\n`);
   
   console.log('👉 Try Pro FREE: https://asynova.com');
-  console.log('   ✅ 1,000 free API calls');
+  console.log('   ✅ Use your own API keys (zero cost to you)');
   console.log('   ✅ No credit card required');
   console.log('   ✅ 5 minute setup\n');
 }
